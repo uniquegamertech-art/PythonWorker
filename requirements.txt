@@ -1,0 +1,6 @@
+boto3
+botocore
+python-dotenv
+pdf2docx
+redis
+bullmq
