@@ -1,6 +1,6 @@
 boto3
 botocore
 python-dotenv
-pdf2docx
-redis
-bullmq
+pika
+PyMuPDF==1.26.4
+pdf2docx==0.5.8
