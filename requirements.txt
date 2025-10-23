@@ -2,5 +2,6 @@ boto3
 botocore
 python-dotenv
 pika
+pdf2pptx-fix
 PyMuPDF==1.26.4
 pdf2docx==0.5.8
